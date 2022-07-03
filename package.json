@@ -1,0 +1,22 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "simple typescript project\r and change master to main",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weightsforfun/typescriptBlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weightsforfun/typescriptBlockChain/issues"
+  },
+  "homepage": "https://github.com/weightsforfun/typescriptBlockChain#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
